@@ -15,11 +15,11 @@
 	<!-- Maven结合TestNG.xml进行参数的传递 https://www.cnblogs.com/season-xie/p/7359592.html -->
 	<!-- 执行测试用例，可以按照类来执行 也可以按照方法去执行 -->
 	<test thread-count="1" name="Test">
-		 <groups>
-            <run>
-                <include name="${value}" />
-            </run>
-        </groups>
+		<groups>
+		    <run>
+			<include name="${value}" />
+		    </run>
+        	</groups>
 		<classes>
 			<class name="com.mall.portal.testMallPortal" />
 		</classes>
