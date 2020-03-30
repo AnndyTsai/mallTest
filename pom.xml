@@ -111,6 +111,8 @@
 						<testEnvironment>${testCaseName}</testEnvironment> 
 						<testEnvironment>${testReportName}</testEnvironment> 
 						<testEnvironment>${tester}</testEnvironment> 
+						<!-- value:TestNG分组执行的参数  -->
+						<testEnvironment>${value}</testEnvironment> 
 					</systemPropertyVariables>
 					<suiteXmlFiles>
 						<suiteXmlFile>testng.xml</suiteXmlFile>
