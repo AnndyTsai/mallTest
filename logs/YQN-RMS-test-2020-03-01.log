@@ -1,0 +1,175 @@
+[ INFO ] [2020-03-01-20:52:49] /api/9901/facade/domain/add_or_update的请求body为：
+{
+	"model": {
+		"data_status": "0",
+		"id": "",
+		"model_key": "接口自动化测试key",
+		"model_name": "接口自动化测试name",
+		"parent_model_id": ""
+	}
+}
+[ INFO ] [2020-03-01-20:53:00] /api/9901/facade/domain/add_or_update的请求body为：
+{
+	"model": {
+		"data_status": "0",
+		"id": "",
+		"model_key": "接口自动化测试key",
+		"model_name": "接口自动化测试name",
+		"parent_model_id": ""
+	}
+}
+[ INFO ] [2020-03-01-22:08:02] JDBC.url = jdbc:mysql://192.168.150.98:3306/rms?useUnicode=true&characterEncoding=UTF-8
+[ INFO ] [2020-03-01-22:08:02] /api/9901/facade/domain/add_or_update的请求body为：
+{
+	"model": {
+		"data_status": "0",
+		"id": "",
+		"model_key": "接口自动化测试key1",
+		"model_name": "接口自动化测试name1",
+		"parent_model_id": ""
+	}
+}
+[ ERROR] [2020-03-01-22:08:11] 数据库连接失败
+[ INFO ] [2020-03-01-22:08:11] 数据库已关闭连接
+[ INFO ] [2020-03-01-22:08:11] /api/9901/facade/domain/delete的请求body为：
+{
+	"model": "null"
+}
+[ ERROR] [2020-03-01-22:08:12] 数据库连接失败
+[ INFO ] [2020-03-01-22:08:12] 数据库已关闭连接
+[ INFO ] [2020-03-01-22:11:01] JDBC.url = jdbc:mysql://192.168.150.98:3306/rms?useUnicode=true&characterEncoding=UTF-8
+[ INFO ] [2020-03-01-22:11:01] /api/9901/facade/domain/add_or_update的请求body为：
+{
+	"model": {
+		"data_status": "0",
+		"id": "",
+		"model_key": "接口自动化测试key2",
+		"model_name": "接口自动化测试name2",
+		"parent_model_id": ""
+	}
+}
+[ ERROR] [2020-03-01-22:11:05] 数据库连接失败
+[ INFO ] [2020-03-01-22:11:05] 数据库已关闭连接
+[ INFO ] [2020-03-01-22:11:05] /api/9901/facade/domain/delete的请求body为：
+{
+	"model": "null"
+}
+[ ERROR] [2020-03-01-22:11:05] 数据库连接失败
+[ INFO ] [2020-03-01-22:11:05] 数据库已关闭连接
+[ INFO ] [2020-03-01-22:14:33] JDBC.url = jdbc:mysql://192.168.150.98:3306/rms?useUnicode=true&characterEncoding=UTF-8
+[ INFO ] [2020-03-01-22:14:33] /api/9901/facade/domain/add_or_update的请求body为：
+{
+	"model": {
+		"data_status": "0",
+		"id": "",
+		"model_key": "接口自动化测试key2",
+		"model_name": "接口自动化测试name2",
+		"parent_model_id": ""
+	}
+}
+[ INFO ] [2020-03-01-22:14:35] /api/9901/facade/domain/add_or_update的请求body为：
+{
+	"model": {
+		"data_status": "0",
+		"id": "",
+		"model_key": "接口自动化测试key2",
+		"model_name": "接口自动化测试name2",
+		"parent_model_id": ""
+	}
+}
+[ ERROR] [2020-03-01-22:14:37] 数据库连接失败
+[ INFO ] [2020-03-01-22:14:37] 数据库已关闭连接
+[ INFO ] [2020-03-01-22:14:37] /api/9901/facade/domain/delete的请求body为：
+{
+	"model": "null"
+}
+[ ERROR] [2020-03-01-22:14:38] 数据库连接失败
+[ INFO ] [2020-03-01-22:14:38] 数据库已关闭连接
+[ INFO ] [2020-03-01-22:16:31] JDBC.url = jdbc:mysql://192.168.150.98:3306/rms?useUnicode=true&characterEncoding=UTF-8
+[ INFO ] [2020-03-01-22:16:31] /api/9901/facade/domain/add_or_update的请求body为：
+{
+	"model": {
+		"data_status": "0",
+		"id": "",
+		"model_key": "接口自动化测试key2",
+		"model_name": "接口自动化测试name3",
+		"parent_model_id": ""
+	}
+}
+[ INFO ] [2020-03-01-22:16:34] /api/9901/facade/domain/add_or_update的请求body为：
+{
+	"model": {
+		"data_status": "0",
+		"id": "",
+		"model_key": "接口自动化测试key2",
+		"model_name": "接口自动化测试name3",
+		"parent_model_id": ""
+	}
+}
+[ INFO ] [2020-03-01-22:17:20] JDBC.url = jdbc:mysql://192.168.150.98:3306/rms?useUnicode=true&characterEncoding=UTF-8
+[ INFO ] [2020-03-01-22:17:20] /api/9901/facade/domain/add_or_update的请求body为：
+{
+	"model": {
+		"data_status": "0",
+		"id": "",
+		"model_key": "接口自动化测试key3",
+		"model_name": "接口自动化测试name3",
+		"parent_model_id": ""
+	}
+}
+[ INFO ] [2020-03-01-22:17:25] 数据库已关闭连接
+[ INFO ] [2020-03-01-22:17:25] /api/9901/facade/domain/delete的请求body为：
+{
+	"model": "1340339368212176896"
+}
+[ INFO ] [2020-03-01-22:17:36] 数据库已关闭连接
+[ INFO ] [2020-03-01-22:17:36] /api/9901/facade/domain/delete的请求body为：
+{
+	"model": "1340339368212176896"
+}
+[ INFO ] [2020-03-01-22:17:36] 数据库已关闭连接
+[ INFO ] [2020-03-01-22:21:00] JDBC.url = jdbc:mysql://192.168.150.98:3306/rms?useUnicode=true&characterEncoding=UTF-8
+[ INFO ] [2020-03-01-22:21:00] /api/9901/facade/domain/add_or_update的请求body为：
+{
+	"model": {
+		"data_status": "0",
+		"id": "",
+		"model_key": "接口自动化测试key4",
+		"model_name": "接口自动化测试name4",
+		"parent_model_id": ""
+	}
+}
+[ INFO ] [2020-03-01-22:21:03] 数据库已关闭连接
+[ INFO ] [2020-03-01-22:21:03] /api/9901/facade/domain/delete的请求body为：
+{
+	"model": "1340340288975151104"
+}
+[ INFO ] [2020-03-01-22:21:04] 数据库已关闭连接
+[ INFO ] [2020-03-01-22:33:08] JDBC.url = jdbc:mysql://192.168.150.98:3306/rms?useUnicode=true&characterEncoding=UTF-8
+[ INFO ] [2020-03-01-22:33:08] /api/9901/facade/domain/add_or_update的请求body为：
+{
+	"model": {
+		"data_status": "0",
+		"id": "",
+		"model_key": "接口自动化测试key5",
+		"model_name": "接口自动化测试name5",
+		"parent_model_id": ""
+	}
+}
+[ INFO ] [2020-03-01-22:33:11] 数据库已关闭连接
+[ INFO ] [2020-03-01-22:33:11] /api/9901/facade/domain/add_or_update的请求body为：
+{
+	"model": {
+		"data_status": "0",
+		"id": "1340343345641299968",
+		"model_key": "接口自动化测试key10",
+		"model_name": "接口自动化测试name10",
+		"parent_model_id": ""
+	}
+}
+[ INFO ] [2020-03-01-22:33:13] 数据库已关闭连接
+[ INFO ] [2020-03-01-22:33:13] /api/9901/facade/domain/delete的请求body为：
+{
+	"model": "1340343345641299968"
+}
+[ INFO ] [2020-03-01-22:33:13] 数据库已关闭连接

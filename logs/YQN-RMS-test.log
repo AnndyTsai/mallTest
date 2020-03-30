@@ -1,0 +1,723 @@
+[ INFO ] [2020-03-02-16:29:07] JDBC.url = jdbc:mysql://192.168.150.98:3306/rms?useUnicode=true&characterEncoding=UTF-8
+[ INFO ] [2020-03-02-16:29:07] /api/9901/facade/domain/add_or_update的请求body为：
+{
+	"model": {
+		"data_status": "0",
+		"id": "",
+		"model_key": "接口自动化测试key5",
+		"model_name": "接口自动化测试name5",
+		"parent_model_id": ""
+	}
+}
+[ INFO ] [2020-03-02-16:29:09] /api/9901/facade/domain/add_or_update的请求body为：
+{
+	"model": {
+		"data_status": "0",
+		"id": "",
+		"model_key": "接口自动化测试key5",
+		"model_name": "接口自动化测试name5",
+		"parent_model_id": ""
+	}
+}
+[ INFO ] [2020-03-02-16:31:23] JDBC.url = jdbc:mysql://192.168.150.98:3306/rms?useUnicode=true&characterEncoding=UTF-8
+[ INFO ] [2020-03-02-16:31:23] /api/9901/facade/domain/add_or_update的请求body为：
+{
+	"model": {
+		"data_status": "0",
+		"id": "",
+		"model_key": "接口自动化测试key5",
+		"model_name": "接口自动化测试name5",
+		"parent_model_id": ""
+	}
+}
+[ ERROR] [2020-03-02-16:31:26] 数据库连接失败
+[ INFO ] [2020-03-02-16:31:26] 数据库已关闭连接
+[ INFO ] [2020-03-02-16:31:26] /api/9901/facade/domain/add_or_update的请求body为：
+{
+	"model": {
+		"data_status": "0",
+		"id": "",
+		"model_key": "接口自动化测试node",
+		"model_name": "接口自动化测试node",
+		"parent_model_id": "null"
+	}
+}
+[ ERROR] [2020-03-02-16:31:26] 数据库连接失败
+[ INFO ] [2020-03-02-16:31:26] 数据库已关闭连接
+[ INFO ] [2020-03-02-16:31:26] /api/9901/facade/domain/add_or_update的请求body为：
+{
+	"model": {
+		"data_status": "0",
+		"id": "null",
+		"model_key": "接口自动化测试key10",
+		"model_name": "接口自动化测试name10",
+		"parent_model_id": ""
+	}
+}
+[ ERROR] [2020-03-02-16:31:26] 数据库连接失败
+[ INFO ] [2020-03-02-16:31:26] 数据库已关闭连接
+[ INFO ] [2020-03-02-16:31:26] /api/9901/facade/domain/add_or_update的请求body为：
+{
+	"model": {
+		"data_status": "0",
+		"id": "null",
+		"model_key": "接口自动化测试key10",
+		"model_name": "接口自动化测试name10",
+		"parent_model_id": ""
+	}
+}
+[ ERROR] [2020-03-02-16:31:27] 数据库连接失败
+[ INFO ] [2020-03-02-16:31:27] 数据库已关闭连接
+[ INFO ] [2020-03-02-16:31:27] /api/9901/facade/domain/add_or_update的请求body为：
+{
+	"model": {
+		"data_status": "0",
+		"id": "",
+		"model_key": "接口自动化测试node",
+		"model_name": "接口自动化测试node",
+		"parent_model_id": "null"
+	}
+}
+[ ERROR] [2020-03-02-16:31:27] 数据库连接失败
+[ INFO ] [2020-03-02-16:31:27] 数据库已关闭连接
+[ INFO ] [2020-03-02-16:31:27] /api/9901/facade/domain/add_or_update的请求body为：
+{
+	"model": {
+		"data_status": "0",
+		"id": "",
+		"model_key": "接口自动化测试node",
+		"model_name": "接口自动化测试node",
+		"parent_model_id": "null"
+	}
+}
+[ INFO ] [2020-03-02-16:40:13] JDBC.url = jdbc:mysql://192.168.150.98:3306/rms?useUnicode=true&characterEncoding=UTF-8
+[ INFO ] [2020-03-02-16:40:13] /api/9901/facade/domain/add_or_update的请求body为：
+{
+	"model": {
+		"data_status": "0",
+		"id": "",
+		"model_key": "接口自动化测试key5",
+		"model_name": "接口自动化测试name5",
+		"parent_model_id": ""
+	}
+}
+[ ERROR] [2020-03-02-16:40:16] 数据库连接失败
+[ INFO ] [2020-03-02-16:40:16] 数据库已关闭连接
+[ INFO ] [2020-03-02-16:40:16] /api/9901/facade/domain/add_or_update的请求body为：
+{
+	"model": {
+		"data_status": "0",
+		"id": "",
+		"model_key": "接口自动化测试node",
+		"model_name": "接口自动化测试node",
+		"parent_model_id": "null"
+	}
+}
+[ ERROR] [2020-03-02-16:40:16] 数据库连接失败
+[ INFO ] [2020-03-02-16:40:16] 数据库已关闭连接
+[ INFO ] [2020-03-02-16:40:16] /api/9901/facade/domain/add_or_update的请求body为：
+{
+	"model": {
+		"data_status": "0",
+		"id": "null",
+		"model_key": "接口自动化测试key10",
+		"model_name": "接口自动化测试name10",
+		"parent_model_id": ""
+	}
+}
+[ ERROR] [2020-03-02-16:40:16] 数据库连接失败
+[ INFO ] [2020-03-02-16:40:16] 数据库已关闭连接
+[ INFO ] [2020-03-02-16:40:16] /api/9901/facade/domain/add_or_update的请求body为：
+{
+	"model": {
+		"data_status": "0",
+		"id": "null",
+		"model_key": "接口自动化测试key10",
+		"model_name": "接口自动化测试name10",
+		"parent_model_id": ""
+	}
+}
+[ ERROR] [2020-03-02-16:40:17] 数据库连接失败
+[ INFO ] [2020-03-02-16:40:17] 数据库已关闭连接
+[ INFO ] [2020-03-02-16:40:17] /api/9901/facade/domain/add_or_update的请求body为：
+{
+	"model": {
+		"data_status": "0",
+		"id": "",
+		"model_key": "接口自动化测试node",
+		"model_name": "接口自动化测试node",
+		"parent_model_id": "null"
+	}
+}
+[ ERROR] [2020-03-02-16:40:17] 数据库连接失败
+[ INFO ] [2020-03-02-16:40:17] 数据库已关闭连接
+[ INFO ] [2020-03-02-16:40:17] /api/9901/facade/domain/add_or_update的请求body为：
+{
+	"model": {
+		"data_status": "0",
+		"id": "",
+		"model_key": "接口自动化测试node",
+		"model_name": "接口自动化测试node",
+		"parent_model_id": "null"
+	}
+}
+[ INFO ] [2020-03-02-16:45:04] JDBC.url = jdbc:mysql://192.168.150.98:3306/rms?useUnicode=true&characterEncoding=UTF-8
+[ INFO ] [2020-03-02-16:45:04] /api/9901/facade/domain/add_or_update的请求body为：
+{
+	"model": {
+		"data_status": "0",
+		"id": "",
+		"model_key": "model_key_root",
+		"model_name": "model_name_root",
+		"parent_model_id": ""
+	}
+}
+[ INFO ] [2020-03-02-16:45:07] 数据库已关闭连接
+[ INFO ] [2020-03-02-16:45:07] /api/9901/facade/domain/add_or_update的请求body为：
+{
+	"model": {
+		"data_status": "0",
+		"id": "",
+		"model_key": "model_key_node",
+		"model_name": "model_name_node",
+		"parent_model_id": "1340618117247803392"
+	}
+}
+[ INFO ] [2020-03-02-16:45:07] 数据库已关闭连接
+[ INFO ] [2020-03-02-16:45:07] /api/9901/facade/domain/add_or_update的请求body为：
+{
+	"model": {
+		"data_status": "0",
+		"id": "1340618117247803392",
+		"model_key": "new_model_key_root",
+		"model_name": "new_model_name_root",
+		"parent_model_id": ""
+	}
+}
+[ INFO ] [2020-03-02-16:45:07] 数据库已关闭连接
+[ INFO ] [2020-03-02-16:45:07] /api/9901/facade/domain/delete的请求body为：
+{
+	"model": "1340618117247803392"
+}
+[ INFO ] [2020-03-02-16:45:08] 数据库已关闭连接
+[ INFO ] [2020-03-02-16:45:08] 数据库已关闭连接
+[ INFO ] [2020-03-02-16:45:08] /api/9901/facade/domain/add_or_update的请求body为：
+{
+	"model": {
+		"data_status": "0",
+		"id": "",
+		"model_key": "model_key_node",
+		"model_name": "model_name_node",
+		"parent_model_id": "1340618123983855616"
+	}
+}
+[ INFO ] [2020-03-02-16:45:08] 数据库已关闭连接
+[ INFO ] [2020-03-02-16:45:08] /api/9901/facade/domain/add_or_update的请求body为：
+{
+	"model": {
+		"data_status": "0",
+		"id": "",
+		"model_key": "model_key_node",
+		"model_name": "model_name_node",
+		"parent_model_id": "1340618128350126080"
+	}
+}
+[ INFO ] [2020-03-02-16:53:53] JDBC.url = jdbc:mysql://192.168.150.98:3306/rms?useUnicode=true&characterEncoding=UTF-8
+[ INFO ] [2020-03-02-16:53:53] /api/9901/facade/domain/add_or_update的请求body为：
+{
+	"model": {
+		"data_status": "0",
+		"id": "",
+		"model_key": "model_key_root",
+		"model_name": "model_name_root",
+		"parent_model_id": ""
+	}
+}
+[ INFO ] [2020-03-02-16:53:56] 数据库已关闭连接
+[ INFO ] [2020-03-02-16:53:56] /api/9901/facade/domain/add_or_update的请求body为：
+{
+	"model": {
+		"data_status": "0",
+		"id": "",
+		"model_key": "model_key_node",
+		"model_name": "model_name_node",
+		"parent_model_id": "1340620337414545408"
+	}
+}
+[ INFO ] [2020-03-02-16:53:57] 数据库已关闭连接
+[ INFO ] [2020-03-02-16:53:57] /api/9901/facade/domain/add_or_update的请求body为：
+{
+	"model": {
+		"data_status": "0",
+		"id": "1340620337414545408",
+		"model_key": "new_model_key_root",
+		"model_name": "new_model_name_root",
+		"parent_model_id": ""
+	}
+}
+[ INFO ] [2020-03-02-16:53:57] 数据库已关闭连接
+[ INFO ] [2020-03-02-16:53:57] /api/9901/facade/domain/delete的请求body为：
+{
+	"model": "null"
+}
+[ INFO ] [2020-03-02-16:53:57] 数据库已关闭连接
+[ INFO ] [2020-03-02-16:53:57] 数据库已关闭连接
+[ INFO ] [2020-03-02-16:53:57] /api/9901/facade/domain/delete的请求body为：
+{
+	"model": "1340620337414545408"
+}
+[ INFO ] [2020-03-02-16:53:58] 数据库已关闭连接
+[ INFO ] [2020-03-02-16:53:58] 数据库已关闭连接
+[ INFO ] [2020-03-02-16:53:58] /api/9901/facade/domain/add_or_update的请求body为：
+{
+	"model": {
+		"data_status": "0",
+		"id": "",
+		"model_key": "model_key_node",
+		"model_name": "model_name_node",
+		"parent_model_id": "1340620344083488768"
+	}
+}
+[ INFO ] [2020-03-02-16:53:58] 数据库已关闭连接
+[ INFO ] [2020-03-02-16:53:58] /api/9901/facade/domain/add_or_update的请求body为：
+{
+	"model": {
+		"data_status": "0",
+		"id": "",
+		"model_key": "model_key_node",
+		"model_name": "model_name_node",
+		"parent_model_id": "1340620350211366912"
+	}
+}
+[ INFO ] [2020-03-02-17:01:43] JDBC.url = jdbc:mysql://192.168.150.98:3306/rms?useUnicode=true&characterEncoding=UTF-8
+[ INFO ] [2020-03-02-17:01:43] /api/9901/facade/domain/add_or_update的请求body为：
+{
+	"model": {
+		"data_status": "0",
+		"id": "",
+		"model_key": "model_key_root",
+		"model_name": "model_name_root",
+		"parent_model_id": ""
+	}
+}
+[ INFO ] [2020-03-02-17:01:46] 数据库已关闭连接
+[ INFO ] [2020-03-02-17:01:46] /api/9901/facade/domain/add_or_update的请求body为：
+{
+	"model": {
+		"data_status": "0",
+		"id": "",
+		"model_key": "model_key_node",
+		"model_name": "model_name_node",
+		"parent_model_id": "1340622308804534272"
+	}
+}
+[ INFO ] [2020-03-02-17:01:46] 数据库已关闭连接
+[ INFO ] [2020-03-02-17:01:46] /api/9901/facade/domain/add_or_update的请求body为：
+{
+	"model": {
+		"data_status": "0",
+		"id": "1340622308804534272",
+		"model_key": "new_model_key_root",
+		"model_name": "new_model_name_root",
+		"parent_model_id": ""
+	}
+}
+[ INFO ] [2020-03-02-17:01:47] 数据库已关闭连接
+[ INFO ] [2020-03-02-17:01:47] /api/9901/facade/domain/add_or_update的请求body为：
+{
+	"model": {
+		"data_status": "0",
+		"id": "",
+		"model_key": "model_key_node",
+		"model_name": "model_name_node",
+		"parent_model_id": "1340622314953383936"
+	}
+}
+[ INFO ] [2020-03-02-17:01:47] 数据库已关闭连接
+[ INFO ] [2020-03-02-17:01:47] /api/9901/facade/domain/add_or_update的请求body为：
+{
+	"model": {
+		"data_status": "0",
+		"id": "",
+		"model_key": "model_key_node",
+		"model_name": "model_name_node",
+		"parent_model_id": "1340622318044585984"
+	}
+}
+[ INFO ] [2020-03-02-17:03:28] JDBC.url = jdbc:mysql://192.168.150.98:3306/rms?useUnicode=true&characterEncoding=UTF-8
+[ INFO ] [2020-03-02-17:03:28] /api/9901/facade/domain/add_or_update的请求body为：
+{
+	"model": {
+		"data_status": "0",
+		"id": "",
+		"model_key": "model_key_root",
+		"model_name": "model_name_root",
+		"parent_model_id": ""
+	}
+}
+[ INFO ] [2020-03-02-17:03:31] 数据库已关闭连接
+[ INFO ] [2020-03-02-17:03:31] /api/9901/facade/domain/add_or_update的请求body为：
+{
+	"model": {
+		"data_status": "0",
+		"id": "",
+		"model_key": "model_key_node",
+		"model_name": "model_name_node",
+		"parent_model_id": "1340622749047070720"
+	}
+}
+[ INFO ] [2020-03-02-17:03:31] 数据库已关闭连接
+[ INFO ] [2020-03-02-17:03:31] /api/9901/facade/domain/add_or_update的请求body为：
+{
+	"model": {
+		"data_status": "0",
+		"id": "1340622749047070720",
+		"model_key": "new_model_key_root",
+		"model_name": "new_model_name_root",
+		"parent_model_id": ""
+	}
+}
+[ INFO ] [2020-03-02-17:03:31] 数据库已关闭连接
+[ INFO ] [2020-03-02-17:03:31] /api/9901/facade/domain/add_or_update的请求body为：
+{
+	"model": {
+		"data_status": "0",
+		"id": "",
+		"model_key": "new_model_key_node",
+		"model_name": "new_model_name_node",
+		"parent_model_id": "1340622754361253888"
+	}
+}
+[ INFO ] [2020-03-02-17:03:32] 数据库已关闭连接
+[ INFO ] [2020-03-02-17:03:32] /api/9901/facade/domain/delete的请求body为：
+{
+	"model": "1340622756647149568"
+}
+[ INFO ] [2020-03-02-17:03:32] 数据库已关闭连接
+[ INFO ] [2020-03-02-17:03:32] 数据库已关闭连接
+[ INFO ] [2020-03-02-17:03:32] /api/9901/facade/domain/delete的请求body为：
+{
+	"model": "1340622749047070720"
+}
+[ INFO ] [2020-03-02-17:03:32] 数据库已关闭连接
+[ INFO ] [2020-03-02-17:05:23] JDBC.url = jdbc:mysql://192.168.150.98:3306/rms?useUnicode=true&characterEncoding=UTF-8
+[ INFO ] [2020-03-02-17:05:23] /api/9901/facade/domain/add_or_update的请求body为：
+{
+	"model": {
+		"data_status": "0",
+		"id": "",
+		"model_key": "model_key_root",
+		"model_name": "model_name_root",
+		"parent_model_id": ""
+	}
+}
+[ INFO ] [2020-03-02-17:05:26] 数据库已关闭连接
+[ INFO ] [2020-03-02-17:05:26] /api/9901/facade/domain/add_or_update的请求body为：
+{
+	"model": {
+		"data_status": "0",
+		"id": "",
+		"model_key": "model_key_node",
+		"model_name": "model_name_node",
+		"parent_model_id": "1340623230565752832"
+	}
+}
+[ INFO ] [2020-03-02-17:05:26] 数据库已关闭连接
+[ INFO ] [2020-03-02-17:05:26] /api/9901/facade/domain/add_or_update的请求body为：
+{
+	"model": {
+		"data_status": "0",
+		"id": "1340623230565752832",
+		"model_key": "new_model_key_root",
+		"model_name": "new_model_name_root",
+		"parent_model_id": ""
+	}
+}
+[ INFO ] [2020-03-02-17:05:26] 数据库已关闭连接
+[ INFO ] [2020-03-02-17:05:26] /api/9901/facade/domain/add_or_update的请求body为：
+{
+	"model": {
+		"data_status": "0",
+		"id": "",
+		"model_key": "new_model_key_node",
+		"model_name": "new_model_name_node",
+		"parent_model_id": "1340623236592967680"
+	}
+}
+[ INFO ] [2020-03-02-17:05:27] 数据库已关闭连接
+[ INFO ] [2020-03-02-17:05:27] /api/9901/facade/domain/delete的请求body为：
+{
+	"model": "1340623238958555136"
+}
+[ INFO ] [2020-03-02-17:05:27] 数据库已关闭连接
+[ INFO ] [2020-03-02-17:05:27] 数据库已关闭连接
+[ INFO ] [2020-03-02-17:05:27] /api/9901/facade/domain/delete的请求body为：
+{
+	"model": "1340623230565752832"
+}
+[ INFO ] [2020-03-02-17:05:27] 数据库已关闭连接
+[ INFO ] [2020-03-02-17:12:11] JDBC.url = jdbc:mysql://192.168.150.98:3306/rms?useUnicode=true&characterEncoding=UTF-8
+[ INFO ] [2020-03-02-17:12:11] /api/9901/facade/domain/add_or_update的请求body为：
+{
+	"model": {
+		"data_status": "0",
+		"id": "",
+		"model_key": "model_key_root",
+		"model_name": "model_name_root",
+		"parent_model_id": ""
+	}
+}
+[ INFO ] [2020-03-02-17:12:14] 数据库已关闭连接
+[ INFO ] [2020-03-02-17:12:14] /api/9901/facade/domain/add_or_update的请求body为：
+{
+	"model": {
+		"data_status": "0",
+		"id": "",
+		"model_key": "model_key_node",
+		"model_name": "model_name_node",
+		"parent_model_id": "1340624943892799488"
+	}
+}
+[ INFO ] [2020-03-02-17:12:15] 数据库已关闭连接
+[ INFO ] [2020-03-02-17:12:15] /api/9901/facade/domain/add_or_update的请求body为：
+{
+	"model": {
+		"data_status": "0",
+		"id": "1340624943892799488",
+		"model_key": "new_model_key_root",
+		"model_name": "new_model_name_root",
+		"parent_model_id": ""
+	}
+}
+[ INFO ] [2020-03-02-17:12:15] 数据库已关闭连接
+[ INFO ] [2020-03-02-17:12:15] 数据库已关闭连接
+[ INFO ] [2020-03-02-17:12:15] 数据库已关闭连接
+[ INFO ] [2020-03-02-17:12:15] 数据库已关闭连接
+[ INFO ] [2020-03-02-17:21:07] JDBC.url = jdbc:mysql://192.168.150.98:3306/rms?useUnicode=true&characterEncoding=UTF-8
+[ INFO ] [2020-03-02-17:21:07] /api/9901/facade/domain/add_or_update的请求body为：
+{
+	"model": {
+		"data_status": "0",
+		"id": "",
+		"model_key": "model_key_root",
+		"model_name": "model_name_root",
+		"parent_model_id": ""
+	}
+}
+[ INFO ] [2020-03-02-17:21:10] 数据库已关闭连接
+[ INFO ] [2020-03-02-17:21:10] /api/9901/facade/domain/add_or_update的请求body为：
+{
+	"model": {
+		"data_status": "0",
+		"id": "",
+		"model_key": "model_key_node",
+		"model_name": "model_name_node",
+		"parent_model_id": "1340627190051643392"
+	}
+}
+[ INFO ] [2020-03-02-17:21:10] 数据库已关闭连接
+[ INFO ] [2020-03-02-17:21:10] /api/9901/facade/domain/add_or_update的请求body为：
+{
+	"model": {
+		"data_status": "0",
+		"id": "1340627190051643392",
+		"model_key": "new_model_key_root",
+		"model_name": "new_model_name_root",
+		"parent_model_id": ""
+	}
+}
+[ INFO ] [2020-03-02-17:21:11] 数据库已关闭连接
+[ INFO ] [2020-03-02-17:21:11] 数据库已关闭连接
+[ INFO ] [2020-03-02-17:21:11] /api/9901/facade/domain/add_or_update的请求body为：
+{
+	"model": {
+		"data_status": "0",
+		"id": "1340627196406013952",
+		"model_key": "new_model_key_node",
+		"model_name": "new_model_name_node",
+		"parent_model_id": "null"
+	}
+}
+[ INFO ] [2020-03-02-17:21:11] 数据库已关闭连接
+[ INFO ] [2020-03-02-17:21:11] /api/9901/facade/domain/delete的请求body为：
+{
+	"model": "1340627196406013952"
+}
+[ INFO ] [2020-03-02-17:21:12] 数据库已关闭连接
+[ INFO ] [2020-03-02-17:21:12] 数据库已关闭连接
+[ INFO ] [2020-03-02-17:21:12] /api/9901/facade/domain/delete的请求body为：
+{
+	"model": "1340627190051643392"
+}
+[ INFO ] [2020-03-02-17:21:12] 数据库已关闭连接
+[ INFO ] [2020-03-02-17:28:20] JDBC.url = jdbc:mysql://192.168.150.98:3306/rms?useUnicode=true&characterEncoding=UTF-8
+[ INFO ] [2020-03-02-17:28:20] /api/9901/facade/domain/add_or_update的请求body为：
+{
+	"model": {
+		"data_status": "0",
+		"id": "",
+		"model_key": "model_key_root",
+		"model_name": "model_name_root",
+		"parent_model_id": ""
+	}
+}
+[ INFO ] [2020-03-02-17:28:23] 数据库已关闭连接
+[ INFO ] [2020-03-02-17:28:23] /api/9901/facade/domain/add_or_update的请求body为：
+{
+	"model": {
+		"data_status": "0",
+		"id": "",
+		"model_key": "model_key_node",
+		"model_name": "model_name_node",
+		"parent_model_id": "1340629005858119680"
+	}
+}
+[ INFO ] [2020-03-02-17:28:23] 数据库已关闭连接
+[ INFO ] [2020-03-02-17:28:23] /api/9901/facade/domain/add_or_update的请求body为：
+{
+	"model": {
+		"data_status": "0",
+		"id": "1340629005858119680",
+		"model_key": "new_model_key_root",
+		"model_name": "new_model_name_root",
+		"parent_model_id": ""
+	}
+}
+[ INFO ] [2020-03-02-17:28:23] 数据库已关闭连接
+[ INFO ] [2020-03-02-17:28:23] 数据库已关闭连接
+[ INFO ] [2020-03-02-17:28:23] /api/9901/facade/domain/add_or_update的请求body为：
+{
+	"model": {
+		"data_status": "0",
+		"id": "1340629011767894016",
+		"model_key": "new_model_key_node",
+		"model_name": "new_model_name_node",
+		"parent_model_id": "null"
+	}
+}
+[ INFO ] [2020-03-02-17:28:24] 数据库已关闭连接
+[ INFO ] [2020-03-02-17:28:24] /api/9901/facade/domain/delete的请求body为：
+{
+	"model": "1340629011767894016"
+}
+[ INFO ] [2020-03-02-17:28:24] 数据库已关闭连接
+[ INFO ] [2020-03-02-17:28:24] 数据库已关闭连接
+[ INFO ] [2020-03-02-17:28:24] /api/9901/facade/domain/delete的请求body为：
+{
+	"model": "1340629005858119680"
+}
+[ INFO ] [2020-03-02-17:28:24] 数据库已关闭连接
+[ INFO ] [2020-03-02-18:20:49] JDBC.url = jdbc:mysql://192.168.150.98:3306/rms?useUnicode=true&characterEncoding=UTF-8
+[ INFO ] [2020-03-02-18:20:49] /api/9901/facade/domain/add_or_update的请求body为：
+{
+	"model": {
+		"data_status": "0",
+		"id": "",
+		"model_key": "model_key_root",
+		"model_name": "model_name_root",
+		"parent_model_id": ""
+	}
+}
+[ INFO ] [2020-03-02-18:20:52] 数据库已关闭连接
+[ INFO ] [2020-03-02-18:20:52] /api/9901/facade/domain/add_or_update的请求body为：
+{
+	"model": {
+		"data_status": "0",
+		"id": "",
+		"model_key": "model_key_node",
+		"model_name": "model_name_node",
+		"parent_model_id": "1340642216636456960"
+	}
+}
+[ INFO ] [2020-03-02-18:20:53] 数据库已关闭连接
+[ INFO ] [2020-03-02-18:20:53] /api/9901/facade/domain/add_or_update的请求body为：
+{
+	"model": {
+		"data_status": "0",
+		"id": "1340642216636456960",
+		"model_key": "new_model_key_root",
+		"model_name": "new_model_name_root",
+		"parent_model_id": ""
+	}
+}
+[ INFO ] [2020-03-02-18:20:53] 数据库已关闭连接
+[ INFO ] [2020-03-02-18:20:53] 数据库已关闭连接
+[ INFO ] [2020-03-02-18:20:53] /api/9901/facade/domain/add_or_update的请求body为：
+{
+	"model": {
+		"data_status": "0",
+		"id": "1340642223322177536",
+		"model_key": "new_model_key_node",
+		"model_name": "new_model_name_node",
+		"parent_model_id": "null"
+	}
+}
+[ INFO ] [2020-03-02-18:20:54] 数据库已关闭连接
+[ INFO ] [2020-03-02-18:20:54] /api/9901/facade/domain/delete的请求body为：
+{
+	"model": "1340642223322177536"
+}
+[ INFO ] [2020-03-02-18:20:54] 数据库已关闭连接
+[ INFO ] [2020-03-02-18:20:54] 数据库已关闭连接
+[ INFO ] [2020-03-02-18:20:54] /api/9901/facade/domain/delete的请求body为：
+{
+	"model": "1340642216636456960"
+}
+[ INFO ] [2020-03-02-18:20:54] 数据库已关闭连接
+[ INFO ] [2020-03-02-18:21:26] JDBC.url = jdbc:mysql://192.168.150.98:3306/rms?useUnicode=true&characterEncoding=UTF-8
+[ INFO ] [2020-03-02-18:21:26] /api/9901/facade/domain/add_or_update的请求body为：
+{
+	"model": {
+		"data_status": "0",
+		"id": "",
+		"model_key": "model_key_root",
+		"model_name": "model_name_root",
+		"parent_model_id": ""
+	}
+}
+[ INFO ] [2020-03-02-18:21:29] 数据库已关闭连接
+[ INFO ] [2020-03-02-18:21:29] /api/9901/facade/domain/add_or_update的请求body为：
+{
+	"model": {
+		"data_status": "0",
+		"id": "",
+		"model_key": "model_key_node",
+		"model_name": "model_name_node",
+		"parent_model_id": "1340642370881986560"
+	}
+}
+[ INFO ] [2020-03-02-18:21:30] 数据库已关闭连接
+[ INFO ] [2020-03-02-18:21:30] /api/9901/facade/domain/add_or_update的请求body为：
+{
+	"model": {
+		"data_status": "0",
+		"id": "1340642370881986560",
+		"model_key": "new_model_key_root",
+		"model_name": "new_model_name_root",
+		"parent_model_id": ""
+	}
+}
+[ INFO ] [2020-03-02-18:21:30] 数据库已关闭连接
+[ INFO ] [2020-03-02-18:21:30] 数据库已关闭连接
+[ INFO ] [2020-03-02-18:21:30] /api/9901/facade/domain/add_or_update的请求body为：
+{
+	"model": {
+		"data_status": "0",
+		"id": "1340642377659981824",
+		"model_key": "new_model_key_node",
+		"model_name": "new_model_name_node",
+		"parent_model_id": "null"
+	}
+}
+[ INFO ] [2020-03-02-18:21:30] 数据库已关闭连接
+[ INFO ] [2020-03-02-18:21:30] /api/9901/facade/domain/delete的请求body为：
+{
+	"model": "1340642377659981824"
+}
+[ INFO ] [2020-03-02-18:21:30] 数据库已关闭连接
+[ INFO ] [2020-03-02-18:21:30] 数据库已关闭连接
+[ INFO ] [2020-03-02-18:21:30] /api/9901/facade/domain/delete的请求body为：
+{
+	"model": "1340642370881986560"
+}
+[ INFO ] [2020-03-02-18:21:31] 数据库已关闭连接
