@@ -7,11 +7,12 @@
 	</listeners>
 	<!-- 参数化 通过@Parameters 注解为测试用例参数化基本信息 -->
 	
-	<parameter name="baseURL" value="${baseURL}"></parameter> 
-	<parameter name="basePath" value="${basePath}"></parameter> 
-	<parameter name="testCaseName" value="${testCaseName}"></parameter> 
-	<parameter name="testReportName" value="${testReportName}"></parameter> 
-	<parameter name="tester" value="${tester}"></parameter> 
+	<parameter name="baseURL" value="${params.baseURL}"></parameter> 
+	<parameter name="basePath" value="${params.basePath}"></parameter> 
+	<parameter name="testCaseName" value="${params.testCaseName}"></parameter> 
+	<parameter name="testReportName" value="${params.testReportName}"></parameter> 
+	<parameter name="tester" value="${params.tester}"></parameter> 
+	<parameter name="value" value="${params.value}"></parameter> 
 	<!-- Maven结合TestNG.xml进行参数的传递 https://www.cnblogs.com/season-xie/p/7359592.html -->
 	<!-- 执行测试用例，可以按照类来执行 也可以按照方法去执行 -->
 	<test thread-count="1" name="Test">
