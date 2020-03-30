@@ -106,11 +106,11 @@
 				<version>2.20</version>
 				<configuration>
 					<systemPropertyVariables> 
-						<testEnvironment>${params.baseURL}</testEnvironment> 
-						<testEnvironment>${params.basePath}</testEnvironment> 
-						<testEnvironment>${params.testCaseName}</testEnvironment> 
-						<testEnvironment>${params.testReportName}</testEnvironment> 
-						<testEnvironment>${params.tester}</testEnvironment> 
+						<testEnvironment>${baseURL}</testEnvironment> 
+						<testEnvironment>${basePath}</testEnvironment> 
+						<testEnvironment>${testCaseName}</testEnvironment> 
+						<testEnvironment>${testReportName}</testEnvironment> 
+						<testEnvironment>${tester}</testEnvironment> 
 					</systemPropertyVariables>
 					<suiteXmlFiles>
 						<suiteXmlFile>testng.xml</suiteXmlFile>
