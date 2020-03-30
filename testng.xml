@@ -17,7 +17,7 @@
 	<test thread-count="1" name="Test">
 		 <groups>
             <run>
-                <include name="${group}" />
+                <include name="${value}" />
             </run>
         </groups>
 		<classes>
